@@ -55,3 +55,4 @@ export default function ChatWindow({
         </Box>
     );
 }
+//This is the code of ChatWindow by editing it you can change its UI

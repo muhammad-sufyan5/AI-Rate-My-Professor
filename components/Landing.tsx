@@ -106,3 +106,4 @@ export default function Landing() {
     </Box>
   );
 }
+//This is the code of Landing Page

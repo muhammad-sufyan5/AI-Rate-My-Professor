@@ -14,6 +14,7 @@ export const pc = new Pinecone({
 });
 
 const index = pc.index('rag').namespace('ns1');
+const indice = 5;
 
 export async function queryRAG(embeding: Embedding[], k?: number) {
     return index.query({
